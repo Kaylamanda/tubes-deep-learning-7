@@ -66,12 +66,12 @@ streamlit_app/
 ---
 ## ⚙️ Teknologi yang Digunakan
 
-Python
-Streamlit
-TensorFlow / Keras
-Librosa
-NumPy
-Matplotlib
+Python \
+Streamlit \
+TensorFlow / Keras \
+Librosa \
+NumPy \
+Matplotlib \
 Scikit-learn
 
 ---
